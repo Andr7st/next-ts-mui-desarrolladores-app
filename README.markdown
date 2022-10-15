@@ -14,6 +14,9 @@
 ![](project-resources/stack/logo-nextjs.png "nextjs")
 ![](project-resources/stack/logo-materialui.png "material ui")
 
+
+[**Link: Lista de reproducción**](https://www.youtube.com/playlist?list=PLOFb_1cEz-dG8DqHOvT0Egn-Vve9mqvrs)
+
 [//]: # (comment)
 [//]: # (https://github.com/Andr7st/)
 
